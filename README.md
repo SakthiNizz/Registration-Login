@@ -1,11 +1,11 @@
 # Registration-Login
-Its Clean Backend scripts for basic Registration and Login with some discription that I mentioned below and not use any web and without using any pre-existing modules!
+Its Clean Backend scripts for basic Registration and Login with some discription that I mentioned below and without using web and without using any pre-existing modules!
 
 To Access:
 
 Step 1 : Make ensure every Python files in "Module" folder.
 
-Step 2 : Open "run.py" in Terminal or any IDE
+Step 2 : Open "run.py" in Terminal or in any IDE
 
          In Terminal Go to Folder by using *cd:/Downloads/Modules/* 
          
